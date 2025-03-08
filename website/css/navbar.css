@@ -3,7 +3,9 @@ header {
     height: 10vh;
     background-size: cover;
 }
-
+a{
+    text-decoration: none;
+}
 /* .content {
     width: 94%;
     margin: 4em auto;

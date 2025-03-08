@@ -15,6 +15,14 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+}
+.logo{
+    border-radius: 20px;
+    width: 100px;
+
+}
 #sidebar-toggle {
     display: none;
 }
